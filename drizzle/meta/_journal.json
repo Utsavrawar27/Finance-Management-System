@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723702115334,
+      "tag": "0000_bright_ultimatum",
+      "breakpoints": true
+    }
+  ]
+}
