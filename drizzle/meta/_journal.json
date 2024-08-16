@@ -8,6 +8,20 @@
       "when": 1723776923687,
       "tag": "0000_watery_hannibal_king",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723843314883,
+      "tag": "0001_aberrant_daimon_hellstrom",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1723847584464,
+      "tag": "0002_ambiguous_nico_minoru",
+      "breakpoints": true
     }
   ]
 }
