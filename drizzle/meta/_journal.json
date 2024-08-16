@@ -8,6 +8,13 @@
       "when": 1723702115334,
       "tag": "0000_bright_ultimatum",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723775196209,
+      "tag": "0001_grey_tigra",
+      "breakpoints": true
     }
   ]
 }
