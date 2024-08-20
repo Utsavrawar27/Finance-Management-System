@@ -14,9 +14,16 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open https://fms-saas.vercel.app/ with your browser to see the result.
 
-![image](https://github.com/user-attachments/assets/c4d4ff26-2bfa-4111-badd-d530a63561b4)
+![image](https://github.com/user-attachments/assets/e9e60dcb-b357-4da5-9305-eb8357ef4f21)
+
+![image](https://github.com/user-attachments/assets/ea3fcb4d-f1e6-4f08-bead-c17291bbf8ce)
+
+![image](https://github.com/user-attachments/assets/5c1658b7-f76b-4cd7-b012-a4e2640e30ba)
+
+![image](https://github.com/user-attachments/assets/6f9fdac8-1713-4ae2-8f00-655acdfb0574)
+
 
 
 ## Learn More
