@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About:
+1. Developed FinFlow, a SaaS-based Finance Management system with an interactive financial dashboard, customizable charts, and comprehensive transaction management, including CSV imports and search functionalities.
+2. Integrated secure bank connections via Plaid and monetized the platform using Lemon Squeezy, offering premium features and seamless subscription management.
+3. Built with Next.js 14, TailwindCSS, Shadcn UI, PostgreSQL, and Drizzle ORM; deployed on Vercel for optimal performance and scalability.
 
 ## Getting Started
 
