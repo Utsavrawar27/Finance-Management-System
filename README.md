@@ -2,27 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
 Open https://fms-saas.vercel.app/ with your browser to see the result.
 
-![image](https://github.com/user-attachments/assets/e9e60dcb-b357-4da5-9305-eb8357ef4f21)
+![image](https://github.com/user-attachments/assets/b3d8f9e1-a565-47c0-b1a0-87ddf57a1dec)
 
-![image](https://github.com/user-attachments/assets/ea3fcb4d-f1e6-4f08-bead-c17291bbf8ce)
+![image](https://github.com/user-attachments/assets/bc31b203-ecd1-4cd6-a86a-ccb87b2ab4b7)
 
-![image](https://github.com/user-attachments/assets/5c1658b7-f76b-4cd7-b012-a4e2640e30ba)
+![image](https://github.com/user-attachments/assets/283b6e3d-ebf4-45e6-9815-03b997a75168)
 
-![image](https://github.com/user-attachments/assets/6f9fdac8-1713-4ae2-8f00-655acdfb0574)
+![image](https://github.com/user-attachments/assets/2fef6e38-7e03-4e7b-b38b-72828dfbf995)
+
+![image](https://github.com/user-attachments/assets/a77d3c70-4beb-4715-a8ca-9a3d32fbe85d)
+
+![image](https://github.com/user-attachments/assets/0e48bac8-f85d-41e9-a8a5-5d4a1bd8f486)
 
 
 
